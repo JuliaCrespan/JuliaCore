@@ -1,0 +1,32 @@
+//testbench que gera waveform
+`timescale 1ns / 1ps
+
+module tb_CPU;
+    reg clk;
+    reg reset;
+
+    // Instancia a CPU
+    CPU cpu0(
+        .clk(clk),
+        .reset(reset)
+    );
+
+    // Clock: 10ns period (100 MHz)
+    initial clk = 0;
+    always #5 clk = ~clk;
+
+    initial begin
+        // Gera waveform
+        $dumpfile("waveform.vcd");
+        $dumpvars(0, tb_CPU);
+
+        // Reset inicial ativo
+        reset = 1;
+        #20;
+        reset = 0;
+
+        // Roda por 500 ns e para
+        #500;
+        $finish;
+    end
+endmodule
