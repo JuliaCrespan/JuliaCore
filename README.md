@@ -1,6 +1,6 @@
 # JuliaCore
 suporta instruções básicas como LOAD, STORE, ADD, SUB e JMP, simulando o ciclo de busca-decodificação-execução. A arquitetura foi construída com propósito didático, com visualização passo-a-passo do funcionamento interno, permitindo compreensão clara dos blocos que compõem uma unidade de processamento.
-# JuliCore - Educational CPU Architecture
+# JuliaCore - Educational CPU Architecture
 
 > Uma CPU didática feita do zero pra entender o que realmente acontece dentro de um processador. Ideal pra iniciantes, entrevistas, e como ponte entre teoria e prática.
 
@@ -8,7 +8,7 @@ suporta instruções básicas como LOAD, STORE, ADD, SUB e JMP, simulando o cicl
 
 ## ⚙️ O que é?
 
-**JuliACore** é uma CPU simplificada desenvolvida com foco didático.  
+**JuliaCore** é uma CPU simplificada desenvolvida com foco didático.  
 Ela simula os principais blocos de uma arquitetura clássica: registradores, ALU, memória, controle e um ciclo básico de instruções.
 
 Ideal pra quem quer:
