@@ -1,5 +1,8 @@
 # JuliaCore
 suporta instruções básicas como LOAD, STORE, ADD, SUB e JMP, simulando o ciclo de busca-decodificação-execução. A arquitetura foi construída com propósito didático, com visualização passo-a-passo do funcionamento interno, permitindo compreensão clara dos blocos que compõem uma unidade de processamento.
+Foi simulado usando EDA playground e DigitalJs, as simulações podem ser acessadas nos links abaixo
+EDA playground: (https://www.edaplayground.com/x/KFuV)
+DigitalJs: (https://digitaljs.tilk.eu/#5a8b9ccf096181ed340d0281754bab63dd230aefbd7ab88435de4149f54e9ce7)
 # JuliaCore - Educational CPU Architecture
 
 > Uma CPU didática feita do zero pra entender o que realmente acontece dentro de um processador. Ideal pra iniciantes, entrevistas, e como ponte entre teoria e prática.
