@@ -6,8 +6,8 @@ Foi simulado usando EDA playground e DigitalJs, as simulações podem ser acessa
 
 EDA playground: (https://www.edaplayground.com/x/KFuV)
 DigitalJs: (https://digitaljs.tilk.eu/#5a8b9ccf096181ed340d0281754bab63dd230aefbd7ab88435de4149f54e9ce7)
-# JuliaCore - Educational CPU Architecture
-
+# JuliaCore - Educational CPU Architecture0
+(https://github.com/JuliaCrespan/JuliaCore/blob/main/Captura%20de%20tela%202025-08-01%20184313.png?raw=true)
 > Uma CPU didática feita do zero pra entender o que realmente acontece dentro de um processador. Ideal pra iniciantes, entrevistas, e como ponte entre teoria e prática.
 
 ---
