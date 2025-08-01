@@ -30,8 +30,7 @@ Ideal pra quem quer:
 - **Ciclo fetch-decode-execute completo**
 - **ALU funcional**
 - **Registradores e memória simulados**
-- **Interface visual (via Wokwi)**
-- Opcional: **Controle de LEDs ou output simples**
+
 
 ---
 
